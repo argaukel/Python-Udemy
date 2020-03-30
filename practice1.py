@@ -4,3 +4,8 @@
 mystring = "Hello World"
 print(mystring)
 print(mystring[-3])
+mystring = "tinker"
+print(mystring[1:4])
+print('string'[1:4])
+print('I like %s' % 'python apples')
+print('I like {}'.format('apples'))
