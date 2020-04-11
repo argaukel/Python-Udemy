@@ -10,3 +10,5 @@ print('string'[1:4])
 print('I like %s' % 'python apples')
 print('I like {}'.format('apples'))
 [1, 'two', 3.14159]
+d = {'monday':19,'tuesday':20}
+
